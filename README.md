@@ -13,4 +13,4 @@ You can use SOIC8E footprint from KiCAD built-in library.
 <h3>MODULE FOOTPRINT</h3>
 Module footprint file: SRT_MPT1584EN_Module.kicad_mod
 
-<img src="https://github.com/kotakomputer/MP1584EN/blob/master/SRT_SRT_MP1584EN.png"><img src="https://github.com/kotakomputer/MP1584EN/blob/master/SRT_MP1584EN_Module.png">
+<img src="https://github.com/kotakomputer/MP1584EN/blob/master/SRT_SRT_MP1584EN.png" width="49%"><img src="https://github.com/kotakomputer/MP1584EN/blob/master/SRT_MP1584EN_Module.png" width="49%">
