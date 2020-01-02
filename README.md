@@ -6,4 +6,8 @@ Unlike other libraries, our symbol 100% same as MP1584 Datasheet. According to t
 
 This make you easier to draw schematic using MP1584 Datasheet.
 
+<h3>FOOTPRINT</h3>
+
+You can use SOIC8E footprint from KiCAD built-in library.
+
 <img src="https://github.com/kotakomputer/MP1584EN/blob/master/SRT_SRT_MP1584EN.png">
